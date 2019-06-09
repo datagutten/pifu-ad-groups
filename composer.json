@@ -1,0 +1,16 @@
+{
+    "name": "datagutten/pifu-ad-groups",
+    "description": "Create AD groups from groups in a PIFU file",
+    "type": "project",
+    "require": {
+        "datagutten/pifu-php": "^1.0",
+        "datagutten/adtools": "^1.3"
+    },
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "datagutten",
+            "email": "datagutten@datagutten.net"
+        }
+    ]
+}
